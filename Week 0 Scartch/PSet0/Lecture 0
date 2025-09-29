@@ -1,0 +1,105 @@
+# CS50 Week 0: Notes
+
+**Topics Overview:**
+
+- Computer Science.
+- Computational Thinking.
+- Problem Solving: Inputs, Outputs.
+- Representation: Unary, Binary, Decimal, ASCII, Unicode,
+- RGB.
+- Abstraction.
+- Algorithms.
+- Running Times.
+- Pseudocode.
+- Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
+
+---
+## Welcome!
+
+This class is about more than computer programming! The practical skills you will learn in this class may have an impact on your life and learning well beyond computer science.
+
+Key Points:
+
+- Problem-solving is central to computer science
+- Everyone learns differently; give yourself time
+- You are part of a community (Harvard College, Extension, edX)
+- Don’t be scared if this is your first CS class!
+
+## Topics Covered
+
+- ASCII & Unicode
+- RGB (Color Representation)
+- Algorithms & Pseudocode
+- Artificial Intelligence
+- Scratch (Visual Programming)
+
+## ASCII & Unicode
+
+ASCII maps letters to numbers (e.g., A = 65). Computers use binary (0s and 1s) to represent data. Unicode expands on ASCII to include more characters and emoji.
+
+## RGB
+
+Colors are represented by three numbers: Red, Green, Blue (RGB). Each pixel in an image is a combination of these values.
+
+## Algorithms
+
+An algorithm is a step-by-step set of instructions to solve a problem. Example: Searching for a name in a phone book (linear search, binary search).
+
+Pseudocode Example:
+
+1. Pick up phone book
+2. Open to middle
+3. Look at page
+4. If person is on page, call
+5. Else if person is earlier, search left half
+6. Else if person is later, search right half
+7. Repeat as needed
+
+## Artificial Intelligence
+
+AI uses large datasets and models to predict or generate responses. In CS50, only CS50.ai is allowed for help.
+
+## Scratch
+
+Scratch is a visual programming language developed by MIT. It uses blocks to teach programming concepts like:
+
+- Functions
+- Conditionals
+- Loops
+- Variables
+
+Example: "Hello, World!" in Scratch
+
+- When green flag clicked
+- Say "hello, world"
+
+Example: Interactive Program
+
+- Ask "What's your name?"
+- Say "Hello, [name]"
+
+## Abstraction
+
+Break down big problems into smaller ones. Use loops and custom blocks to avoid repetition.
+
+## Conditionals
+
+Programs can check if a condition is met and act accordingly (e.g., if touching mouse-pointer, play sound).
+
+## Oscartime & Ivy’s Hardest Game
+
+Games built in Scratch to practice programming concepts:
+
+- Movement
+- Collision detection
+- Scoring
+- Keyboard input
+
+## Summing Up
+
+- Problem-solving is the essence of computer science
+- Pseudocode helps plan solutions
+- Abstraction and breaking down problems is key
+- You are part of a supportive community
+
+This was CS50! Welcome aboard!
