@@ -30,10 +30,11 @@ Portfolio
             <td></td>
             <td></td>
             <td></td>
-            <th scope="1">cash </th>
-            <th scope="1">{{ cash | usd }}</th>
+                <th scope="1">Cash: </th>
+                <th scope="1">{{ cash | usd }}</th>
         </tr>
     </tfoot>
 </table>
+        <p>Total: {{ total | usd }}</p>
 
 {% endblock %}
